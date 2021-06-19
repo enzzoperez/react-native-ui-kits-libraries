@@ -1,4 +1,4 @@
-//Button stars ad forked generator
+//Button stars and forked generator
 //https://michaelcurrin.github.io/badge-generator/#/repo
 
 
