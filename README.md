@@ -1,7 +1,7 @@
 
 This is a set of RN UI Kits libraries collected from "all" github, if you want added some library just send your PR :)
 
-*your lib will be add in the last position, the table will order by incoming date*
+**your lib will be add in the last position, the table will order by incoming date*
 
 Its no have any order, if you want to order by `|some field|` your PR is welcome
 
