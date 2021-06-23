@@ -1,5 +1,5 @@
 
-This is a set of RN UI Kits libraries collected from "all" github, if you want added some library just send your PR :).. If you want to send a PR this could help you [Utils for PRs](https://github.com/enzzoperez/react-native-ui-kits-libraries/blob/main/thisWillHelpYou.js)
+This is a set of RN UI Kits libraries collected from "all" github, if you want added some library just send your PR :).. If you want to send a PR, the file `thisWillHelpYou.md` in repo could help you [(Utils for PRs)](https://github.com/enzzoperez/react-native-ui-kits-libraries/blob/main/thisWillHelpYou.js)
 
 
 
